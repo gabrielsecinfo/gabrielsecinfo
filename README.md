@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟I'm majoring in information security🎓, I work at Lorac Informática, where I do technical support level 1 and 2 for the city hall of Santo André. Where I help users with their problems and solve them. I created projects using Grafana with integration in Zabbix, chests using Issabel, projects in Cisco Packet Tracer (Spanning three, redundancies, access to web servers, DNS, etc.). Projects for creating an Activity Directory and configuring it. Currently studying pfSense, computer networking enthusiast.   
+🌟I'm majoring in information security🎓, I work at Lorac Informática, where I do technical support level 1 and 2 for the city hall of Santo André. Where I help users with their problems and solve them. I created projects using Grafana with integration in Zabbix, extension line using Issabel, projects in Cisco Packet Tracer (Spanning three, redundancies, access to web servers, DNS, etc.). Projects for creating an Activity Directory and configuring it. Currently studying pfSense, computer networking enthusiast.   
 
 
 ## 🌐 Socials:
