@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌟I'm majoring in information security🎓, I work at Lorac Informática, where I do technical support level 1, 2 and 3 for the city hall of Santo André. Where I help users with their problems and solve them. I created projects using Grafana with integration in Zabbix, extension line using Issabel, projects in Cisco Packet Tracer (Spanning three, redundancies, access to web servers, DNS, etc.). Projects for creating an ACTIVE DIRECTORY (AD) and configuring it. Currently studying pfSense, computer networking enthusiast.   
-
+🌟I have a degree in information security and currently work as an intern for the city hall of Santo André, where I provide Level 1, 2, and 3 support. I have created projects using Zabbix and Grafana, set up a virtual and functional extension, worked on projects with Cisco Packet Tracer, and developed projects involving Active Directory. I am also specializing in red team tactics, studying topics such as reverse shell, pentesting in SMB, cloud pentesting, network pentesting, and OSINT.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-luiz-ribeiro-carmo) 
