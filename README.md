@@ -28,12 +28,6 @@ I have created projects using <span style="color: #ffa500;">Zabbix</span> and <s
 
 ---
 
-<h2 style="color: #ff00ff;">:open_file_folder: Projects</h2>
-<ul>
-  <li>:link: <a href="https://github.com/seuprojeto" style="color: #00ffff;">Zabbix Monitoring Setup</a></li>
-  <li>:link: <a href="https://github.com/seuprojeto" style="color: #00ffff;">Grafana Dashboards</a></li>
-</ul>
-
 ---
 
 <p style="text-align: center; color: #808080;">Made with :heart: by <a href="https://github.com/gabrielsecinfo" style="color: #00ff00;">gabrielsecinfo</a></p>
