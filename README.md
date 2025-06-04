@@ -1,35 +1,36 @@
+<h1 align="center" style="color:#ff4d4d;">👨‍💻 gabrielsecinfo</h1>
 
-<div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; color: #d4d4d4; font-family: 'Courier New', monospace;">
-
-<h1 style="color: #00ff00;">:man_technologist: About Me</h1>
-<p>
-:star2: I have a degree in information security and currently work as an intern for the city hall of Santo André, where I provide Level 1, 2, and 3 support.<br>
-I have created projects using <span style="color: #ffa500;">Zabbix</span> and <span style="color: #ff4500;">Grafana</span>, worked with <span style="color: #00ffff;">Cisco Packet Tracer</span>, and developed projects involving <span style="color: #ff00ff;">Active Directory</span>.
+<p align="center">
+  <img src="https://img.shields.io/badge/Intern%20at%20City%20Hall%20of%20Santo%20André-red?style=for-the-badge&logo=windows" alt="Intern badge"/>
+  <img src="https://img.shields.io/badge/Information%20Security%20Graduate-black?style=for-the-badge&logo=graduation-cap" alt="Graduate badge"/>
 </p>
 
 ---
 
-<h2 style="color: #00ffff;">:globe_with_meridians: Socials</h2>
+## 👨‍💻 About Me
+
+🌟 I have a degree in **Information Security** and currently work as an **intern** for the **City Hall of Santo André**, where I provide **Level 1, 2, and 3 technical support**.  
+🛠️ I've created monitoring projects using **Zabbix** and **Grafana**, configured networks with **Cisco Packet Tracer**, and developed solutions involving **Active Directory**.
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsecinfo)
+
+---
+
+## 🚀 Tech Stack
+
 <p>
-<a href="https://www.linkedin.com/in/seuperfil" style="color: #00ff00;">:link: LinkedIn</a>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-black?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-red?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-red?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-black?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-<h2 style="color: #ffa500;">:rocket: Tech Stack</h2>
-<ul>
-  <li style="color: #00ff00;">Windows Terminal</li>
-  <li style="color: #00ffff;">PowerShell</li>
-  <li style="color: #ff4500;">AWS</li>
-  <li style="color: #ff00ff;">Azure</li>
-  <li style="color: #ffa500;">Apache</li>
-  <li style="color: #ff4500;">MySQL</li>
-</ul>
-
----
-
----
-
-<p style="text-align: center; color: #808080;">Made with :heart: by <a href="https://github.com/gabrielsecinfo" style="color: #00ff00;">gabrielsecinfo</a></p>
-
-</div>
+### 🧠 Made with ❤️ by [gabrielsecinfo](https://github.com/gabrielsecinfo)
