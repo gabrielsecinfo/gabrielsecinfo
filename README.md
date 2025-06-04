@@ -1,8 +1,8 @@
 <h1 align="center" style="color:#ff4d4d;">👨‍💻 gabrielsecinfo</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Intern%20at%20City%20Hall%20of%20Santo%20André-red?style=for-the-badge&logo=windows" alt="Intern badge"/>
-  <img src="https://img.shields.io/badge/Information%20Security%20Graduate-black?style=for-the-badge&logo=graduation-cap" alt="Graduate badge"/>
+  <img src="https://img.shields.io/badge/Estagiário%20na%20Prefeitura%20de%20Santo%20André-red?style=for-the-badge&logo=windows" alt="Intern badge"/>
+  <img src="https://img.shields.io/badge/Segurança%20da%20Informação-black?style=for-the-badge&logo=lock&logoColor=white" alt="Segurança da Informação badge"/>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsecinfo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-luiz-carmo)
 
 ---
 
