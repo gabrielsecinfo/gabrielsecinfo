@@ -1,122 +1,116 @@
-<h1 align="center" style="color:#ff4d4d;">👨‍💻 gabrielsecinfo</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Segurança%20da%20Informação-black?style=for-the-badge&logo=lock&logoColor=white" alt="Segurança da Informação badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=OFFENSIVE+SECURITY;WEB+APPLICATION+PENTESTING;CONTINUOUS+IMPROVEMENT;NO+SHORTCUTS." />
 
----
-
-## 👨‍💻 Sobre Mim
-
-Sou formado em **Segurança da Informação** e tenho experiência em projetos voltados para **infraestrutura, redes, monitoramento, automação e segurança cibernética**.
-
-Desenvolvo soluções que envolvem **gerenciamento de rede, análise de eventos, simulações, hardening, detecção de ameaças e resposta a incidentes**. Estou sempre em busca de aprimorar meus conhecimentos em **segurança ofensiva e defensiva**, e construir um portfólio sólido para a área de cibersegurança.
+</div>
 
 ---
 
-## 🚀 Ferramentas e Tecnologias que Utilizo
+█████╗    █████╗ ██████╗ ██████╗ ██╗███████╗██╗    
+██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║     
+██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║     
+██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║     
+╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 
-### 🔐 Segurança da Informação
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-red?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sysmon-black?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YARA-red?style=for-the-badge&logo=yara&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-black?style=for-the-badge&logo=elasticstack&logoColor=white"/>
-</p>
 
-### 📡 Redes e Infraestrutura
-<p>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-red?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active%20Directory-black?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DNS-red?style=for-the-badge&logo=bind&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPN-black?style=for-the-badge&logo=wireguard&logoColor=white"/>
-</p>
+███████╗███████╗ ██████╗
+██╔════╝██╔════╝██╔════╝
+███████╗█████╗  ██║
+╚════██║██╔══╝  ██║
+███████║███████╗╚██████╗
+╚══════╝╚══════╝ ╚═════╝
+R E D   T E A M 
+```
 
-### 📊 Monitoramento e Logs
-<p>
-  <img src="https://img.shields.io/badge/Zabbix-black?style=for-the-badge&logo=zabbix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-red?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Filebeat-black?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Winlogbeat-red?style=for-the-badge&logo=elastic&logoColor=white"/>
-</p>
+# 👨‍💻 About
 
-### 💻 Sistemas e Scripts
-<p>
-  <img src="https://img.shields.io/badge/Windows%20Server-black?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-red?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=700&lines=INITIALIZING+OFFENSIVE+SECURITY+PROFILE...;ENUMERATING+TARGETS...;EXPLOITING+VULNERABILITIES...;PRIVILEGE+ESCALATION+COMPLETE." />
-
-<p align="center">
-  <img src="https://media.tenor.com/oqyUP8olluoAAAAC/hacker-hacking.gif" width="700">
-</p>
-
-```bash
-root@redteam:~# whoami
+```bash id="v0v1hq"
+root@offsec:~# whoami
 
 Gabriel
+Information Security Graduate
 Offensive Security Student
-Web Application Security
-Future Red Team Operator
+Future Penetration Tester
+```
+
+Formado em Segurança da Informação com foco atual em segurança ofensiva, exploração de vulnerabilidades web, automação e desenvolvimento contínuo de habilidades para atuação profissional em Cyber Security.
+
+---
+
+# ⚔ Current Objectives
+
+```bash id="5lz7ww"
+root@offsec:~# cat objectives.txt
+
+[+] PortSwigger Academy
+[+] Web Application Security
+[+] Python for Security
+[+] Technical English
+[+] Security Portfolio
+
+[-] Comfort Zone
 ```
 
 ---
 
-## ⚡ ACTIVE TOOLSET
+# 🩸 Current Focus
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
+```text id="mbul28"
+SQL Injection
+Authentication Vulnerabilities
+Access Control
+Linux
+Networking
+Active Directory
+Python
+```
+
+---
+
+# 🚀 Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode" />
 </p>
 
 ---
 
-## 📡 LIVE STATUS
+# 📂 Active Operations
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark" />
+```bash id="0c0k7y"
+root@offsec:~# ls
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=chartreuse-dark" />
+portswigger-labs/
+security-notes/
+python-tools/
+writeups/
+automation/
+```
 
 ---
+---
 
-## 🛰 CURRENT MISSION
+# ☠ Terminal
 
-```yaml
-objective:
-  - PortSwigger Labs
-  - Web Exploitation
-  - Active Directory
-  - Privilege Escalation
-  - OSCP Preparation
+```bash id="5py5om"
+root@offsec:~# history
 
-status:
-  access: pending
-  persistence: pending
-  root: pending
+1  enumerate
+2  exploit
+3  fail
+4  learn
+5  repeat
 ```
 
 ---
 
-## ☠ ATTACK CHAIN
+```bash id="jh5nsd"
+root@offsec:~# echo $STATUS
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=800&lines=Reconnaissance;Enumeration;Initial+Access;Privilege+Escalation;Persistence;Domain+Dominance" />
-
----
-
-## 🐍 CONTRIBUTION ACTIVITY
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-```bash
-root@redteam:~# cat final_message.txt
-
-The target is never the machine.
-
-The target is understanding.
+Learning never stops.
 ```
+
 
 ---
 
