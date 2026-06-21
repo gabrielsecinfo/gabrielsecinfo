@@ -1,117 +1,153 @@
+# <div align="center">GABRIELSEC</div>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=OFFENSIVE+SECURITY;WEB+APPLICATION+PENTESTING;CONTINUOUS+IMPROVEMENT;NO+SHORTCUTS." />
+### OFFENSIVE SECURITY • CONTINUOUS IMPROVEMENT
+
+<br>
+
+> *"There is nothing impossible to him who will try."*
+>
+> **— Alexander the Great**
 
 </div>
 
 ---
 
-┌─────────────────────────────────────────────┐
-│                                             │
-│  "There is nothing impossible               │
-│      to him who will try."                  │
-│                                             │
-│           — Alexander the Great             │
-│                                             │
-└─────────────────────────────────────────────┘
-R E D   T E A M 
-```
+## [ SYSTEM OVERVIEW ]
 
-# 👨‍💻 About
+```bash
+root@gabrielsec:~# whoami
 
-```bash id="v0v1hq"
-root@offsec:~# whoami
-
-Gabriel
 Information Security Graduate
-Offensive Security Student
-Future Penetration Tester
-```
 
-Formado em Segurança da Informação com foco atual em segurança ofensiva, exploração de vulnerabilidades web, automação e desenvolvimento contínuo de habilidades para atuação profissional em Cyber Security.
+Focused on:
+- Offensive Security
+- Web Application Security
+- Linux
+- Networks
+- Security Operations
 
----
-
-# ⚔ Current Objectives
-
-```bash id="5lz7ww"
-root@offsec:~# cat objectives.txt
-
-[+] PortSwigger Academy
-[+] Web Application Security
-[+] Python for Security
-[+] Technical English
-[+] Security Portfolio
-
-[-] Comfort Zone
+Current Objective:
+Build practical cybersecurity expertise through
+repetition, hands-on labs and real-world projects.
 ```
 
 ---
 
-# 🩸 Current Focus
+## [ STATUS ]
 
-```text id="mbul28"
+```text
+┌─────────────────────────────────────────────┐
+│ Discipline.........................ONLINE   │
+│ Learning...........................ONLINE   │
+│ Consistency........................ONLINE   │
+│ Offensive Security.................ONLINE   │
+│ Curiosity..........................ONLINE   │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## [ CURRENT FOCUS ]
+
+```text
 SQL Injection
 Authentication Vulnerabilities
 Access Control
+Cross-Site Scripting
 Linux
-Networking
-Active Directory
+Network Security
+```
+
+---
+
+## [ ABOUT ]
+
+Formado em Segurança da Informação com experiência em projetos voltados para infraestrutura, redes, monitoramento, automação e segurança cibernética.
+
+Desenvolvo soluções relacionadas a gerenciamento de redes, análise de eventos, hardening, detecção de ameaças e resposta a incidentes.
+
+Atualmente direciono meus estudos para Offensive Security, exploração de vulnerabilidades web e desenvolvimento contínuo de habilidades práticas através de laboratórios, projetos e pesquisa.
+
+---
+
+## [ TOOLSET ]
+
+### Security
+
+```text
+Burp Suite
+OWASP ZAP
+Nmap
+Wireshark
+Metasploit
+OpenVAS
+```
+
+### Infrastructure & Networking
+
+```text
+Linux
+Windows Server
+TCP/IP
+DNS
+DHCP
+Routing & Switching
+```
+
+### Monitoring & Analysis
+
+```text
+Wazuh
+ELK Stack
+Grafana
+Zabbix
+Syslog
+```
+
+### Scripting & Automation
+
+```text
 Python
+Bash
+PowerShell
+Git
 ```
 
 ---
 
-# 🚀 Technologies
+## [ CURRENT ACTIVITY ]
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode" />
-</p>
+```bash
+root@gabrielsec:~# status
 
----
-
-# 📂 Active Operations
-
-```bash id="0c0k7y"
-root@offsec:~# ls
-
-portswigger-labs/
-security-notes/
-python-tools/
-writeups/
-automation/
-```
-
----
----
-
-# ☠ Terminal
-
-```bash id="5py5om"
-root@offsec:~# history
-
-1  enumerate
-2  exploit
-3  fail
-4  learn
-5  repeat
+[+] PortSwigger Web Security Academy
+[+] SQL Injection Labs
+[+] Web Security Research
+[+] Linux Practice
+[+] English Improvement
+[+] Offensive Security Projects
 ```
 
 ---
 
-```bash id="jh5nsd"
-root@offsec:~# echo $STATUS
+## [ PHILOSOPHY ]
 
-Learning never stops.
+```text
+No shortcuts.
+
+No talent.
+
+Only repetition.
 ```
 
-
 ---
 
-## 🌐 Redes Sociais
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-luiz-carmo/)
+```text
+SYSTEM ONLINE
+```
 
----
-
-### 🧠 Feito com ❤️ por [gabrielsecinfo](https://github.com/gabrielsecinfo)
+</div>
