@@ -1,80 +1,56 @@
-<div align="center">🟥 GABRIELSEC //</div>
+<div align="center">🟥 GABRIELSEC</div>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=FF0033&center=true&vCenter=true&width=600&lines=OFFENSIVE+SECURITY+ENGINEER;WEB+EXPLOITATION+%2F+PENTEST;SQLi+%7C+XSS+%7C+ACCESS+CONTROL;RED+TEAM+DEVELOPMENT+MODE" />
-<br>
-[ SYSTEM STATUS ]
-> identity: information_security_analyst
-> mode: offensive_security
-> level: learning -> operational
-> focus: exploitation / labs / real-world practice
-<br>
-
-
-
-
-
-
+OFFENSIVE SECURITY • WEB EXPLOITATION • CONTINUOUS LEARNING
+<br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF2D2D&center=true&vCenter=true&width=650&lines=Offensive+Security+Focused;Web+Application+Exploitation;SQLi+%7C+XSS+%7C+Access+Control;Practical+Cybersecurity+Development" /> <br>
+SYSTEM STATUS: ONLINE
+MODE: OFFENSIVE SECURITY
+FOCUS: PRACTICAL EXPLOITATION
 </div>
-⚡ [ TERMINAL ACCESS ]
-root@gabrielsec:~$ whoami
-Information Security Student
+🧠 ABOUT
 
-root@gabrielsec:~$ objectives
-- Break web applications safely
-- Master SQL Injection & Access Control
-- Build offensive security intuition
-- Transition into real-world pentest work
+Formado em Segurança da Informação, atualmente focado em Offensive Security e Web Application Security.
 
-root@gabrielsec:~$ status
-ACTIVE - CONSTANT IMPROVEMENT LOOP
-🟥 [ RED TEAM PROFILE ]
-Role: Offensive Security Trainee
-Path: Pentesting / Web Exploitation
+Atua com prática contínua em laboratórios, análise de vulnerabilidades e estudo de técnicas de exploração real em aplicações web.
 
-Core Domains:
-- Web Application Security
-- Network Exploitation
-- Linux Privilege Escalation
-- Reconnaissance & Enumeration
-- Attack Surface Mapping
-🧠 [ SKILL MATRIX ]
-Domain	Level	Focus
-Web Exploitation	Intermediate	SQLi / XSS / Auth Bypass
-Linux	Intermediate	PrivEsc / System Analysis
-Networking	Intermediate	TCP/IP / DNS / Routing
-Tools	Intermediate	Burp / Nmap / Wireshark
-🔧 [ TOOLCHAIN ]
-[ Web Security ]
-Burp Suite • OWASP ZAP • FFUF
+Objetivo profissional: Pentest / Red Team / Security Operations (Offensive track)
 
-[ Network ]
-Nmap • Wireshark
-
-[ Exploitation ]
-Metasploit • Manual Payload Crafting
-
-[ OSINT / Recon ]
-Subdomain enumeration • Directory brute force
-🧪 [ ACTIVE OPERATIONS ]
-root@labs:~$ missions
-
-[+] PortSwigger Web Security Academy
-[+] SQL Injection deep practice
-[+] Authentication bypass labs
-[+] Access control exploitation
-[+] Linux privilege escalation practice
-[+] Offensive security research
-🟣 [ PHILOSOPHY ]
+🟥 CURRENT FOCUS
+SQL Injection (error-based, blind, time-based)
+Authentication & Session Attacks
+Access Control Vulnerabilities (IDOR, privilege bypass)
+Cross-Site Scripting (XSS)
+Linux Privilege Escalation
+Network Reconnaissance & Enumeration
+🔧 TOOLSET
+Web Exploitation
+Burp Suite
+OWASP ZAP
+FFUF
+Recon / Network
+Nmap
+Wireshark
+Exploitation / Scripting
+Bash
+Python
+Metasploit (auxiliar)
+🧪 ACTIVE LABS
+PortSwigger Web Security Academy
+SQL Injection practice (advanced cases)
+Authentication bypass scenarios
+Access control exploitation labs
+Linux privilege escalation practice
+Web security research & testing
+⚔️ MINDSET
 No shortcuts.
 No excuses.
 No luck.
 
 Only repetition.
-Only failure loops.
-Only improvement.
-🟣 [ SYSTEM SIGNATURE ]
+Only consistency.
+Only execution.
+🟣 SYSTEM STATUS
 <div align="center">
-SYSTEM: ONLINE
-MODE: OFFENSIVE
-STANCE: LEARNING → ATTACK READY
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="140"/> </div>
+STATUS: ACTIVE
+MODE: OFFENSIVE SECURITY DEVELOPMENT
+TRAJECTORY: PRACTICAL READINESS FOR PENTEST ENVIRONMENTS
+</div>
