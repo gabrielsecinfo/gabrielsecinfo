@@ -47,6 +47,76 @@ Desenvolvo soluções que envolvem **gerenciamento de rede, análise de eventos,
   <img src="https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-red?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&width=700&lines=INITIALIZING+OFFENSIVE+SECURITY+PROFILE...;ENUMERATING+TARGETS...;EXPLOITING+VULNERABILITIES...;PRIVILEGE+ESCALATION+COMPLETE." />
+
+<p align="center">
+  <img src="https://media.tenor.com/oqyUP8olluoAAAAC/hacker-hacking.gif" width="700">
+</p>
+
+```bash
+root@redteam:~# whoami
+
+Gabriel
+Offensive Security Student
+Web Application Security
+Future Red Team Operator
+```
+
+---
+
+## ⚡ ACTIVE TOOLSET
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
+</p>
+
+---
+
+## 📡 LIVE STATUS
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=chartreuse-dark" />
+
+---
+
+## 🛰 CURRENT MISSION
+
+```yaml
+objective:
+  - PortSwigger Labs
+  - Web Exploitation
+  - Active Directory
+  - Privilege Escalation
+  - OSCP Preparation
+
+status:
+  access: pending
+  persistence: pending
+  root: pending
+```
+
+---
+
+## ☠ ATTACK CHAIN
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&width=800&lines=Reconnaissance;Enumeration;Initial+Access;Privilege+Escalation;Persistence;Domain+Dominance" />
+
+---
+
+## 🐍 CONTRIBUTION ACTIVITY
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+```bash
+root@redteam:~# cat final_message.txt
+
+The target is never the machine.
+
+The target is understanding.
+```
 
 ---
 
